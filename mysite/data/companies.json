@@ -1,0 +1,802 @@
+[
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc. (Class A)",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. (Class C)",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "WMT",
+      "name": "Walmart",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "LLY",
+      "name": "Lilly (Eli)",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MA",
+      "name": "Mastercard",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "XOM",
+      "name": "ExxonMobil",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "COST",
+      "name": "Costco",
+      "is_active": true
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "HD",
+      "name": "Home Depot (The)",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ABBV",
+      "name": "AbbVie",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PG",
+      "name": "Procter & Gamble",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CVX",
+      "name": "Chevron Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GE",
+      "name": "GE Aerospace",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "KO",
+      "name": "Coca-Cola Company (The)",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "TMUS",
+      "name": "T-Mobile US",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "WFC",
+      "name": "Wells Fargo",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PM",
+      "name": "Philip Morris International",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "IBM",
+      "name": "IBM",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AXP",
+      "name": "American Express",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MCD",
+      "name": "McDonald's",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "DIS",
+      "name": "Walt Disney Company (The)",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MRK",
+      "name": "Merck & Co.",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "T",
+      "name": "AT&T",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "RTX",
+      "name": "RTX Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "UBER",
+      "name": "Uber",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "INTU",
+      "name": "Intuit",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "VZ",
+      "name": "Verizon",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BKNG",
+      "name": "Booking Holdings",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "C",
+      "name": "Citigroup",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BA",
+      "name": "Boeing",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "TXN",
+      "name": "Texas Instruments",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BLK",
+      "name": "BlackRock",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "SCHW",
+      "name": "Charles Schwab Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "SPGI",
+      "name": "S&P Global",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BSX",
+      "name": "Boston Scientific",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ACN",
+      "name": "Accenture",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "TJX",
+      "name": "TJX Companies",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AMGN",
+      "name": "Amgen",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "LOW",
+      "name": "Lowe's",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "SYK",
+      "name": "Stryker Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "NEE",
+      "name": "NextEra Energy",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PGR",
+      "name": "Progressive Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "GILD",
+      "name": "Gilead Sciences",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "COF",
+      "name": "Capital One",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "HON",
+      "name": "Honeywell",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ETN",
+      "name": "Eaton Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "APH",
+      "name": "Amphenol",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "BX",
+      "name": "Blackstone Inc.",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "UNP",
+      "name": "Union Pacific Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "AMAT",
+      "name": "Applied Materials",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "DE",
+      "name": "Deere & Company",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CMCSA",
+      "name": "Comcast",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "KKR",
+      "name": "KKR",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "KLAC",
+      "name": "KLA Corporation",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MDT",
+      "name": "Medtronic",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "WELL",
+      "name": "Welltower",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "MO",
+      "name": "Altria",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "SNPS",
+      "name": "Synopsys",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "CB",
+      "name": "Chubb Limited",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "NKE",
+      "name": "Nike, Inc.",
+      "is_active": false
+    }
+  },
+  {
+    "model": "core.company",
+    "fields": {
+      "ticker": "LMT",
+      "name": "Lockheed Martin",
+      "is_active": false
+    }
+  }
+]
